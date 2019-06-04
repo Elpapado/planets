@@ -2,4 +2,6 @@ HEADING
 
 Something just to create a text!
 
---ending
+Somenthing just to create another line!
+
+--new_ending
